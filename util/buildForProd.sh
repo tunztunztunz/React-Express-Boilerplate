@@ -20,6 +20,9 @@ mkdir -p ./build/public/react/
 # Navigate to the react directory
 cd ./src/public/react/frontend
 
+#install dependencies
+npm install
+
 # Build React code
 npm run build
 
